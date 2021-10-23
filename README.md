@@ -11,3 +11,4 @@ I am a beginner programmer. I work on python.
 ![html&css](https://img.shields.io/badge/-html&css-3A3A3A?style=for-the-badge&logo=html&cs)
 ![parsing](https://img.shields.io/badge/-parsing-3A3A3A?style=for-the-badge&logo=parsing)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0puh&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
