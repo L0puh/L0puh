@@ -1,7 +1,7 @@
 
 ![](carbon.png)
 ## About me
-I am a beginner programmer. I work on python.
+I am a beginner programmer.
 
 
 ## Tools
