@@ -4,7 +4,6 @@
 I am a beginner programmer.
 
 
-## Tools
 ![python](https://img.shields.io/badge/-python-3A3A3A?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-3A3A3A?style=for-the-badge&logo=Django)
 ![sql](https://img.shields.io/badge/-sql-3A3A3A?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
