@@ -9,6 +9,6 @@ I am a beginner programmer.
 ![sql](https://img.shields.io/badge/-sql-3A3A3A?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![html&css](https://img.shields.io/badge/-html&css-3A3A3A?style=for-the-badge&logo=html&cs)
 ![parsing](https://img.shields.io/badge/-parsing-3A3A3A?style=for-the-badge&logo=parsing)
-![kotlin](https://img.shields.io/badge/-parsing-3A3A3A?style=for-the-badge&logo=kotlin)
+![kotlin](https://img.shields.io/badge/-kotlin-3A3A3A?style=for-the-badge&logo=kotlin)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0puh&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
