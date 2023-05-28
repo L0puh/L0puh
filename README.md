@@ -1,3 +1,4 @@
+
 # my interests:
 - computer science 
 - back-end 
@@ -13,3 +14,6 @@
 ![kotlin](https://img.shields.io/badge/-kotlin-3A3A3A?style=for-the-badge&logo=kotlin)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash)
+
+---
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/l1opuh)
