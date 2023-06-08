@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0puh&layout=compact&theme=rose_pine&hide_title=true&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0puh&layout=compact&theme=rose_pine&hide_title=true&langs_count=9)
 # my interests:
 - computer science 
 - back-end 
