@@ -2,7 +2,7 @@
 # my interests:
 - computer science 
 - back-end 
-- *future*: c++ and ai 
+
 
 ![python](https://img.shields.io/badge/-python-3A3A3A?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-3A3A3A?style=for-the-badge&logo=Django)
@@ -14,6 +14,7 @@
 ![kotlin](https://img.shields.io/badge/-kotlin-3A3A3A?style=for-the-badge&logo=kotlin)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
 
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/l1opuh)
