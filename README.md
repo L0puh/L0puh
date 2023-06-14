@@ -4,18 +4,18 @@
 - back-end 
 ---
 ## languages:
-![python](https://img.shields.io/badge/-python-3A3A3A?style=for-the-badge&logo=python?labelColor=979BBD&logoColor=979BBD)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
-![kotlin](https://img.shields.io/badge/-kotlin-3A3A3A?style=for-the-badge&logo=kotlin)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash)
+![python](https://img.shields.io/badge/-python-3A3A3A?style=for-the-badge&logo=python&labelColor=979BBD&logoColor=979BBD)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&labelColor=979BBD&logoColor=979BBD)
+![kotlin](https://img.shields.io/badge/-kotlin-3A3A3A?style=for-the-badge&logo=kotlin&labelColor=979BBD&logoColor=979BBD)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=979BBD&logoColor=979BBD)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=979BBD&logoColor=979BBD)
+![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&labelColor=979BBD&logoColor=979BBD)
 ## other:
-![Django](https://img.shields.io/badge/-Django-3A3A3A?style=for-the-badge&logo=Django)
-![sql](https://img.shields.io/badge/-sql-3A3A3A?style=for-the-badge&logo=mysql)
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json)
-![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim)
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/-Django-3A3A3A?style=for-the-badge&logo=Django&labelColor=979BBD&logoColor=979BBD)
+![sql](https://img.shields.io/badge/-sql-3A3A3A?style=for-the-badge&logo=mysql&labelColor=979BBD&logoColor=979BBD)
+![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&labelColor=979BBD&logoColor=979BBD)
+![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&labelColor=979BBD&logoColor=979BBD)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&labelColor=979BBD&logoColor=979BBD)
 
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/l1opuh)
