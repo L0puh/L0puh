@@ -17,5 +17,7 @@
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=979BBD&color=333542)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=979BBD&color=333542)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=979BBD&color=333542)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=979BBD&color=333542)
+
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-Contact_me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=979BBD&color=40424F&labelColor=333542)](https://t.me/l1opuh)
