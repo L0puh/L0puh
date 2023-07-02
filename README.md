@@ -1,7 +1,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0puh&layout=donut&hide_title=true&langs_count=5&hide=c&bg_color=0D1117&border_radius=0&text_color=EDEDED&hide_border=true)
 # my interests:
 - computer science 
-- back-end 
+- back-end
+- networking
 #### languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=979BBD&color=333542)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=979BBD&color=333542)
