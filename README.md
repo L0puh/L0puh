@@ -1,5 +1,5 @@
 
-<img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=L0puh&layout=donut&hide_title=true&langs_count=6&hide=Vim%20script,css&bg_color=0D1117&border_radius=0&text_color=EDEDED&hide_border=true">
+<img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=L0puh&layout=donut&hide_title=true&langs_count=6&hide=Vim%20script,css,c&bg_color=0D1117&border_radius=0&text_color=EDEDED&hide_border=true">
 
 ## Hi there!
 `computer science` `back end development` `networking`
